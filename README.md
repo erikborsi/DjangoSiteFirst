@@ -1,3 +1,3 @@
-# djangoSiteFirst
+# DjangoSiteFirst
 
 #example from the django documentation
